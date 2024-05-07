@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_page"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/input_page"
+        android:icon="@drawable/ic_input"
+        android:title="Input" />
+    <item
+        android:id="@+id/qrcode_page"
+        android:icon="@drawable/ic_qrcode"
+        android:title="QR Code" />
+    <item
+        android:id="@+id/production_page"
+        android:icon="@drawable/ic_production"
+        android:title="Production" />
+    <item
+        android:id="@+id/output_page"
+        android:icon="@drawable/ic_output"
+        android:title="Output" />
+</menu>
